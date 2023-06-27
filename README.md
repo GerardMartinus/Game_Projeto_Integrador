@@ -6,3 +6,4 @@ Este projeto esta sendo desenvolvido pela primeira turma de Tecnico de Programa√
 Neste projeto est√£o sendo utilizados as seguintes ferramentas e linguagens:
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="100px" />
