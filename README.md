@@ -1,12 +1,6 @@
 # Game_Projeto_Integrador
 Jogo de terror, feito para o projeto integrador do Curso de Programação de Jogos Digitais.
 
-<style>
-    .inverted-image {
-      filter: invert(100%);
-    }
-</style>
-
 Este projeto esta sendo desenvolvido pela primeira turma de Tecnico de Programação de Jogos Digitais do Senac Lapa Tito.
 
 Neste projeto estão sendo utilizados as seguintes ferramentas e linguagens:
