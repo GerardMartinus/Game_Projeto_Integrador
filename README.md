@@ -1,4 +1,4 @@
-# Game_Projeto_Integrador
+# Game de terror - Programação de Jogos Digitas Senac
 
 <div align="center">
 <p>
