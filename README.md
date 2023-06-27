@@ -1,6 +1,6 @@
 # Game_Projeto_Integrador
 <div align="center">
-  
+```diff
 Jogo de terror, feito para o projeto integrador do Curso de Programação de Jogos Digitais.
 
 Este projeto esta sendo desenvolvido pela primeira turma de Tecnico de Programação de Jogos Digitais do Senac Lapa Tito.
@@ -12,3 +12,5 @@ Este projeto esta sendo desenvolvido pela primeira turma de Tecnico de Programa�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="100px" />       
 
 </div> 
+
+```
