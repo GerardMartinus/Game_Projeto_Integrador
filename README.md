@@ -1,6 +1,6 @@
+<div align="center">
 # Game de terror - Programação de Jogos Digitas Senac
 
-<div align="center">
 <p>
   Jogo de <strong>terror</strong>, feito para o projeto integrador do Curso de Programação de Jogos Digitais.<br>
   Este projeto esta sendo desenvolvido pela primeira turma de Tecnico de Programação de Jogos Digitais do Senac Lapa Tito.<br>
