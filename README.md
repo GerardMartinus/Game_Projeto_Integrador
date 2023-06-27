@@ -1,5 +1,5 @@
 # Game_Projeto_Integrador
-<div align="center">
+<div align="center" style="background-color: #f0f0f0;">
   
 Jogo de terror, feito para o projeto integrador do Curso de Programação de Jogos Digitais.
 
